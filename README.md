@@ -1,0 +1,2 @@
+# MESHING-OF-REAR-WHEEL-HOLDER
+Inspected the component for existing Geometrical errors and fixed it by capturing all the features. • Mid-surfaced the Sheetmetal model using proper mid-surfacing tools. • Model is carried out for 2D meshing with given quality parameters. • Improved the mesh for obtaining a proper mesh flow and minimum number of trias. • Model is carried out for quality fixing using proper fixing tools and cleared it. • Final inspection of the model is performed thus checked for all the failures.
